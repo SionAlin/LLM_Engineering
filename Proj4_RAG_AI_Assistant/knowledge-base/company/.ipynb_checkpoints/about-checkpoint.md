@@ -1,0 +1,3 @@
+# About LIXSIO
+
+At LIXSIO, we are a forward-thinking IT startup based in Iași, Romania, committed to transforming innovative ideas into functional technology solutions. Our mission is to bridge the gap between concept and execution, delivering cutting-edge software that empowers businesses to thrive in an increasingly digital world. With a focus on agility and precision, we specialize in crafting tailored applications that address unique challenges and unlock new opportunities for our clients. At LIXSIO, we don't just develop software; we build the future of technology.
