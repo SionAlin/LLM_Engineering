@@ -72,7 +72,7 @@ Includes 2D & 3D vector visualizations of embeddings.
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python 🐍, C++ ⚙️, COBOL 🖥️  
+- **Languages:** Python 🐍  
 - **Frameworks & Libraries:**  
   - Gradio, LangChain, BeautifulSoup  
   - OpenAI API, Ollama, ChromaDB  
