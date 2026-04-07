@@ -84,8 +84,3 @@ Includes 2D & 3D vector visualizations of embeddings.
 These projects were developed as part of the course:  
 **LLM Engineering: Master AI, Large Language Models & Agents**  
 by **Ed Donner**  
-
-or
-```bash
-python Main.py
-```
