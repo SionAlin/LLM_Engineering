@@ -85,21 +85,6 @@ These projects were developed as part of the course:
 **LLM Engineering: Master AI, Large Language Models & Agents**  
 by **Ed Donner**  
 
----
-
-## 📌 How to Run
-1. Clone the repo  
-```bash
-git clone https://github.com/SionAlin/LLM_Engineering.git
-```
-2. Add your OpenAI API key to .env
-```bash
-OPENAI_API_KEY=sk-yourkeyhere
-```
-3. Navigate to the desired project folder and run:
-```bash
-jupyter notebook Main.ipynb
-```
 or
 ```bash
 python Main.py
